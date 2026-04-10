@@ -1,6 +1,10 @@
 # FindingTheBreakpoint
 How much information can an image lose before its underlying pattern becomes unrecognizable by a machine learning model
 
+This research aims to systematically investigate the behavior of image pattern recognition models when subjected to progressive information loss in input data. Instead of focusing solely on improving classification accuracy, the study emphasizes understanding when and why recognition fails as image information is gradually degraded through noise, occlusion, or pixel removal. By analyzing the degradation patterns and identifying critical breakpoints where recognition performance collapses, this research provides deeper insight into the inherent limitations and reliability of existing image recognition models.
+
+The proposed experimental framework is designed to be feasible at the undergraduate level while maintaining strong analytical depth. Furthermore, the methodology established in this study offers significant potential for future extension into advanced computer vision applications and physics-based imaging domains, such as astronomical image analysis and other real-world scenarios where data incompleteness is unavoidable.
+
 # 🔍 Pattern Recognition Under Information Loss
 
 ## 📌 Project Overview
